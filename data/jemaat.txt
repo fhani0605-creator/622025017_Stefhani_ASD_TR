@@ -1,0 +1,7 @@
+1003|Yohanes Pratama|22|Pemuda|Rayon 1 - Sonai|Sudah Baptis
+1001|Edison|45|Umum|Rayon 2 - Puriala|Sudah Baptis
+1005|Kristy Patricia|9|Anak|Rayon 1 - Lambuya|Belum Baptis
+1002|Debora |15|Remaja|Rayon 3 - NTT|Sudah Baptis
+1004|Epran|34|Umum|Rayon 2 - Betlehem|Sudah Baptis
+300323|ansa|19|pemuda|2|sudah
+141007|adel|19|pemuda|3|sudah 
