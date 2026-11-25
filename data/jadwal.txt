@@ -1,0 +1,5 @@
+101|Umum|Minggu, 29 Nov 2026|09:00 WIB|Gedung Gereja Utama
+102|Pemuda|Sabtu, 28 Nov 2026|18:00 WIB|Aula Serbaguna
+103|Remaja|Minggu, 29 Nov 2026|07:30 WIB|Ruang Kanaan
+104|Anak|Minggu, 29 Nov 2026|09:00 WIB|Ruang Sekolah Minggu
+2026|remaja|sabtu, 27|07.15|Rumah saudari kristi
