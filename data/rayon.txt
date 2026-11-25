@@ -1,0 +1,14 @@
+6 7
+0|Gereja Pusat
+1|Rayon 1 - Sonai
+2|Rayon 2 - Kelurahan
+3|Rayon 3 - tana merah
+4|Rayon 4 - Puriala
+5|Rayon 5 - Unggulino
+0 1
+0 2
+1 3
+1 4
+2 4
+2 5
+3 5
